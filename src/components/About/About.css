@@ -1,0 +1,13 @@
+.about{
+    padding:10px;
+    margin-left: auto;
+    margin-right: auto;
+    height:30mm; 
+    width:210mm; 
+    display: block;
+    text-align: justify;
+}
+
+.about-head {
+    text-align: center;
+}
